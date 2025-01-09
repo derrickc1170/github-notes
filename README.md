@@ -1,4 +1,16 @@
 # github-notes
+### Github
+* Easy design
+* Simple interface
+* Can script commands
+* Faster command processing
+* Uses fewer system resources
+### Git
+* Hard to learn
+* Less intuitive
+* Fewer guides
+* Risk of system harm (fewer checks on actions)
+### Code
 * Up Arrow ↑ show us previous command.
 * Tab auto complete what you type.
 * `clear` delete all code in terminal.
